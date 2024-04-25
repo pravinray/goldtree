@@ -11,7 +11,9 @@
     "clean": "rimraf .next out",
     "lint": "next lint",
     "build-types": "tsc --noEmit --pretty",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "check-lint": "npx prettier --check src/",
+    "fix-lint": "npx prettier --write src/"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
