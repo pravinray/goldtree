@@ -60,7 +60,7 @@ const Menu = () => {
               ))}
               <a
                 href="#"
-                className={`font-medium text-primary hover:text-secondary`}
+                className={`font-medium text-primary hover:text-secondary pointer-events-none`}
               >
                 Keep In Touch
               </a>

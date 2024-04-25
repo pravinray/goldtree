@@ -121,17 +121,15 @@ const Pricing = () => {
     //   </div>
     // </section>
 
-    <section
-      className=""
-      style={{ textAlign: "-webkit-center" }}
-      id="contact"
-    >
+    <section className="" id="contact">
       <h3
         className={`text-base text-primary font-semibold tracking-wide uppercase`}
       >
         Here we are
       </h3>
-      <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Our Contact Detail</p>
+      <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+        Our Contact Detail
+      </p>
       <div
         id="map"
         className="relative h-[300px] overflow-hidden bg-cover bg-[50%] bg-no-repeat mt-4"
