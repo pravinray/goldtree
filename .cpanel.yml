@@ -2,6 +2,7 @@
 ---
 deployment:
   tasks:
+    - echo "@@@@@@@2@@@@@@@@"
     - export DEPLOYPATH=/home/ewvbonxi/public_html/
     - /bin/cp -R .vscode $DEPLOYPATH
     - /bin/cp -R out/assets $DEPLOYPATH
@@ -10,3 +11,6 @@ deployment:
     - /bin/cp -R img $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
     /bin/cp index.html $DEPLOYPATH
+    echo "*******1*******"
+    echo $(pwd)
+    echo "$(pwd)"
