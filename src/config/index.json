@@ -25,7 +25,7 @@
   "mainHero": {
     "title": "Better solutions through",
     "subtitle": "Gold Tree.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "Gold Tree AI StudioTM empowers enterprises with tailored solutions and seamless integration of the best tools, enhancing value across specific use cases.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
@@ -37,16 +37,17 @@
     }
   },
   "product": {
-    "title": "Our Awesome Products",
+    "title": "Our Awesome Product",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Gold Bulk Sms",
+        "description": "Bulk SMS refers to the practice of sending a large volume of SMS (Short Message Service) messages to multiple recipients simultaneously. It is a powerful tool often used by businesses, organizations, and institutions for marketing, notifications, alerts, reminders, and communication purposes. Here are the key elements of bulk SMS:",
+        "img": "/assets/images/Thumbnail.png"
       },
+
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Gold Jobs",
+        "description": "Gold Jobs is a website where employers can create, post, and manage job descriptions for various positions within their organization. It serves as a resource for job seekers to explore job opportunities, understand role expectations, and apply if they find the position suitable. Here are the essential features and functionalities of a job description site platform",
         "img": "/assets/images/product2.jpg"
       }
     ]
@@ -54,7 +55,7 @@
   "services": {
     "title": "What We Do ",
     "subtitle": "All the best technologies out there!",
-    "description": " distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "",
     "items": [
       {
         "name": "Custom Software Development",
